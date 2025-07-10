@@ -17,7 +17,7 @@ This repository contains the Solidity smart contract for `OpenVoting`, a basic d
 
 ### Contract Name: `OpenVoting`
 
-### Solidity Version: `^0.8.20`
+### Solidity Version: `^0.8.24`
 
 ### Core Components:
 
